@@ -20,4 +20,4 @@ In 2016, with the introduction of React Hooks, stateful components can now be wr
 
 1. Run `npm install` to install dependecies.
 2. Run `npm run dev` to start the demo app
-3. Navigate to [http://localhost:5173/]
+3. Navigate to (http://localhost:5173/)
