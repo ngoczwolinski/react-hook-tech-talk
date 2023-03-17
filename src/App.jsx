@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Nav from './Components/Nav';
-import Home from './Components/Home';
-import ExampleUseState from './Components/ExampleUseState';
-import ExampleUseEffect from './Components/ExampleUseEffect';
-import ExampleUseRef from './Components/ExampleUseRef';
-import ExampleUseReducer from './Components/ExampleUseReducer';
-import ThemeContext from './Components/ThemeContext';
+import Nav from './components/Nav';
+import Home from './components/Home';
+import ExampleUseState from './components/ExampleUseState';
+import ExampleUseEffect from './components/ExampleUseEffect';
+import ExampleUseRef from './components/ExampleUseRef';
+import ExampleUseReducer from './components/ExampleUseReducer';
+import ThemeContext from './components/ThemeContext';
 
 function App() {
   // Initialize theme of the website:
